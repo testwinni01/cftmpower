@@ -227,7 +227,7 @@
     .features-area .heading-wrap {
       margin-bottom: 76px; }
   .features-list li {
-    width: 33.333%;
+    /*width: 33.333%;*/
     margin: 0 0 51px; }
   .product-features {
     padding-bottom: 63px; }
@@ -304,7 +304,7 @@
     line-height: 70px; }
     .hero-area h1.heading {
       line-height: 60px; }
-  .hero-area .container {
+  .hero-area  {
     padding-top: 100px; }
   .hero-area .heading-holder {
     margin-bottom: 100px; }
